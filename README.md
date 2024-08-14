@@ -1,2 +1,2 @@
 # Partner-Workflows
-Partner Workflows with Python
+Partner Workflows with the ArcGIS API for Python
